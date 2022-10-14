@@ -7,7 +7,7 @@ This project is a lightweight standart 2D mobile game preset, that shows tiny pa
 * Readme for a profile and project
 * Ground actions
 * Branching
-* ~~Command attributes ~~
+* ~~Command attributes~~
 
 ## Notes
 If you find in files code like this:
